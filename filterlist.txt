@@ -391,6 +391,7 @@
 ##.center_cookies
 ##.cl_dark.cl_bottom.cl_bar
 ##.con-large.cpr-bar
+##.cookie
 ##.cookie-accept-overlay
 ##.cookie-alert
 ##.cookie-banner
